@@ -3,7 +3,7 @@ title: Conception d'une Sattelite d'Observation
 subtitle: Projet Aeronautique
 description: Description du projet 1
 layout: product
-image: assets/imgs/sattelite.jpg
+image: ../../assets/imgs/sattelite.jpg
 robots: noindex 
 ---
 
