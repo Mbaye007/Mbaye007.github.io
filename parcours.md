@@ -9,60 +9,66 @@ robots: noindex
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2025 – 2027`
+**Unilasalle AMIENS**
 
 Elève ingénieur en [préciser la spécialité]
+* Cours : 
+
+`2024 – 2025`
+**Bachelor [Science et ingénierie industrie du transport** - Université [Elisa Aerospace]
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac [S2 Science experimental], mention assez bien, Lieu Senegal
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`12/2025 - 12/2025` **UniLaSalle - Amiens**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Contributeur projet Arduino_
+* Conception et programmation d'un robot suiveur de ligne avec Arduino
+* Tests et ajustements pour assurer le bon fonctionnement du robot
+* Application des compétences en programmation Arduino et électronique
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`01/2026 - 02/2026` **Université de Vigo - (Espagne)**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage – en Ingénlerle_
+* Découverte des missions de petits satellites en orbites basse (LEO)
+* Répertoriés les missions des satellites basse orbite
+* Initiation aux différents sous système d'un satellite
 
-`20XX` **Association, description de l’asso., taille**
+`06/2025 - 06/2025` **Saray - Saint Quentin**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stagiaire en restauration_
+* Service à table et préparation des commandes
+* Accueil et service des clients
+* Participation à la livraison de repas
+* Mise en place et rangement de la salle
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 à préciser : Anglais B1
+* LV2 à préciser : Espagnol A1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+*  Maintenance industrielle
+*  Mécanique
+*  Compétences transversales
+*  Réactivité et rigueur
+*  Travail en équipe
 
-Autres
-* Autres diplômes ou permis spéciaux
+
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Vélo
+* sorties régulières et sportives
 
-Loisirs 1
-* Description 
-* Description 
+Musique
+* style urbain et mélodique
+
+Jeux vidéo
+* stratégie et jeux en équipe
