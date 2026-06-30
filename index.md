@@ -9,7 +9,7 @@ hero_image_ratio: is-1by1
 robots: noindex 
 ---
 
-# Papa Mbaye DIOP
+# Papa Mbaye DIOP 
 Elève ingénieur en deuxiéme année a Unilasalle Amiens 
 
 
