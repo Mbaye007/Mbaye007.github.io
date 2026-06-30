@@ -1,9 +1,9 @@
 ---
-title: Projet 1
-subtitle: Projet informatique
+title: Conception d'une Sattelite d'Observation
+subtitle: Projet Aeronautique
 description: Description du projet 1
 layout: product
-image: https://via.placeholder.com/640x480
+image: assets/imgs/sattelite.jpg
 robots: noindex 
 ---
 
